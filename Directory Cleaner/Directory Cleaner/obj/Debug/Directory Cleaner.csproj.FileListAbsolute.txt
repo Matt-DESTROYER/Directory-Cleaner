@@ -1,0 +1,10 @@
+C:\Users\MattD\Desktop\C#\Directory Cleaner\Directory Cleaner\bin\Debug\Directory Cleaner.exe.config
+C:\Users\MattD\Desktop\C#\Directory Cleaner\Directory Cleaner\bin\Debug\Directory Cleaner.exe
+C:\Users\MattD\Desktop\C#\Directory Cleaner\Directory Cleaner\bin\Debug\Directory Cleaner.pdb
+C:\Users\MattD\Desktop\C#\Directory Cleaner\Directory Cleaner\obj\Debug\Directory Cleaner.csproj.AssemblyReference.cache
+C:\Users\MattD\Desktop\C#\Directory Cleaner\Directory Cleaner\obj\Debug\Directory_Cleaner.Main.resources
+C:\Users\MattD\Desktop\C#\Directory Cleaner\Directory Cleaner\obj\Debug\Directory_Cleaner.Properties.Resources.resources
+C:\Users\MattD\Desktop\C#\Directory Cleaner\Directory Cleaner\obj\Debug\Directory Cleaner.csproj.GenerateResource.cache
+C:\Users\MattD\Desktop\C#\Directory Cleaner\Directory Cleaner\obj\Debug\Directory Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\MattD\Desktop\C#\Directory Cleaner\Directory Cleaner\obj\Debug\Directory Cleaner.exe
+C:\Users\MattD\Desktop\C#\Directory Cleaner\Directory Cleaner\obj\Debug\Directory Cleaner.pdb
